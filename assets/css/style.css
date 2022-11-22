@@ -13,6 +13,12 @@ body {
   color: #444444;
 }
 
+@media (max-width: 600px) {
+  #media-query-target {
+    margin-top: 20px;
+  }
+}
+
 /* .custom-contact {
   justify-content: center;
 } */
